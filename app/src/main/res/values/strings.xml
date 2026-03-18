@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="student_name">M Venkata Teja</string>
+    <string name="roll_number">Roll No: A23126552278</string>
+    <string name="course">Course: CSM</string>
+    <string name="email">Email: vv5087867@gmail.com</string>
+    <string name="show_details">Show Details</string>
+    <string name="profile_desc">Student Profile Image</string>
+</resources>
